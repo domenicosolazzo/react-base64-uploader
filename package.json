@@ -1,0 +1,20 @@
+{
+	"name": "react-base64-uploader",
+	"version": "0.0.1",
+	"description": "A React file uploader",
+	"dependencies":{
+		"body-parser":"^1.4.3",
+		"express": "^4.12.2"
+	},
+	"repository":{
+		"type": "git",
+		"url": "https://github.com/domenicosolazzo/react-base64-uploader"
+	},
+	"keywords":[
+		"react",
+		"fileuploader",
+		"html5",
+		"base64"
+	],
+	"author":"domenicosolazzo"
+}
