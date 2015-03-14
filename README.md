@@ -7,7 +7,7 @@ A React component for uploading files in Base64
 * npm install
 * node server.js
 
-# Properties
+# State 
 =============
 The component keeps some information about the file uploaded, such as:
 
